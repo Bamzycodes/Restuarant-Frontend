@@ -1,6 +1,6 @@
 {
   "name": "movie",
-  "proxy": "http://localhost:8080/",
+  "proxy": "https://restaurant31.adaptable.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
